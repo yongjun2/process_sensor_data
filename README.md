@@ -7,5 +7,5 @@
 - **nand_hal_gpio.c** → Configures GPIO pins for NAND memory access.
 - **ndelay.c** → Implements time delay functions for precise timing.
 - **messageParser_gps.c** → Parses NMEA GPS data received via UART.
-- **Command_to_pc.c** → Manages serial communication between the MCU and a PC.
-- **Transfer_data_to_esp32.c** → Handles Wi-Fi connectivity and data transmission.
+- **command_to_pc.c** → Manages serial communication between the MCU and a PC.
+- **transfer_data_to_esp32.c** → Handles Wi-Fi connectivity and data transmission.
